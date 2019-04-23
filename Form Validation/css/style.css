@@ -1,0 +1,13 @@
+.error{
+  display: block;
+  text-align:left;
+  color:red;
+  font-size: 12px;
+  margin:0;
+}
+
+.error-1{
+  position: absolute;
+  top: 37px;
+
+}
